@@ -14,6 +14,7 @@ import quick.pager.shop.mq.ActivityMQ;
 @EnableBinding(ActivityMQ.class)
 public class Activity {
 
+
     public static void main(String[] args) {
         SpringApplication.run(Activity.class, args);
     }
